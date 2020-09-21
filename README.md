@@ -6,3 +6,7 @@
 - 2021 Goal: Maybe some game development. And contribute more to open source projects
 
 💪 💪 💪 ❤ ❤ ❤
+
+---
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rokonxr&count_private=true&show_icons=true)](https://github.com/rokonxr)
