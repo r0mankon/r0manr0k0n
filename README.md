@@ -9,6 +9,8 @@
 
 ---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rokonxr&count_private=true&show_icons=true)](https://github.com/rokonxr)
+[![Github stats](https://github-readme-stats.rokonxr.vercel.app
+/api?username=rokonxr&count_private=true&show_icons=true)](https://github.com/rokonxr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
+[![Top Langs](https://github-readme-stats.rokonxr.vercel.app
+/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
