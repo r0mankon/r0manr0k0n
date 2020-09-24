@@ -58,6 +58,8 @@
 
 [![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true)](https://github.com/rokonxr)
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
