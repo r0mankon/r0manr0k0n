@@ -1,7 +1,7 @@
 ### Hi there, I'm Roman Rokon - aka @rokonxr
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/rokonxr)
-[<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/rokonxr)
+[<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/roman_rokon)
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/rokonxr)
 
 ## I'm a Full stack web developer!
@@ -57,5 +57,7 @@
 ---
 
 [![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true)](https://github.com/rokonxr)
+
+<!--START_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
