@@ -20,19 +20,23 @@
 ## Languages and Tools 🔫
 
 <a href="https://github.com/topics/javascript">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javaScript" width='50'>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width='50'>
 </a>
 
 <a href="https://github.com/topics/typescript">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width='50'>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width='50'>
 </a>
 
 <a href="https://github.com/topics/react">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width='50'>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width='50'>
 </a>
 
 <a href="https://gatsbyjs.com">
-  <img src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" alt="Gatsbyjs" width='50'>
+  <img src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" alt="gatsby" width='50'>
+</a>
+
+<a href="https://github.com/topics/graphql">
+  <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" alt="gatsby" width='50'>
 </a>
 
 <a href="https://nextjs.org/">
@@ -59,12 +63,12 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width='50'>
 </a>
 
-<a href="https://code.visualstudio.com">
-  <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VS Code" width='50'>
+<a href="https://github.com/topics/visual-studio-code">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width='50'>
 </a>
 
 <a href="https://github.com/topics/github">
-  <img src="https://simpleicons.org/icons/github.svg" alt="github" width="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="50"/>
 </a>
 
 <a href="https://github.com/topics/git">
