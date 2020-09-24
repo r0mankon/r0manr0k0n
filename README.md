@@ -55,7 +55,7 @@
 </a>
 
 ---
-### :zap: Recent Activity
+### :zap: Recent Github Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#102](https://github.com//yang991178/fluent-reader/issues/102) in [yang991178/fluent-reader](https://github.com//yang991178/fluent-reader)
 2. 💪 Opened PR [#4050](https://github.com//godotengine/godot-docs/pull/4050) in [godotengine/godot-docs](https://github.com//godotengine/godot-docs)
@@ -64,6 +64,16 @@
 5. 💪 Opened PR [#1](https://github.com//rokonxr/express/pull/1) in [rokonxr/express](https://github.com//rokonxr/express)
 <!--END_SECTION:activity-->
 
-[![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true)](https://github.com/rokonxr)
+<details>
+  <summary>:zap: Github Stats</summary>
 
-[![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
+  [![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/rokonxr)
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  [![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
+
+</details>
