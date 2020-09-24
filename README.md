@@ -74,6 +74,11 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  [![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr)](https://github.com/rokonxr)
+  [![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr&hide_title=true&hide_border=true)](https://github.com/rokonxr)
 
 </details>
+
+### :zap: Now playing on Spotify
+
+[![Spotify](https://spotify-now-playing.rokonxr.vercel.app/api/spotify)](https://open.spotify.com/user/fyqscjwbqk19oa0g7b03gpjld)
+
