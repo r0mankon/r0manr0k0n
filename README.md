@@ -4,11 +4,11 @@
 [<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/roman_rokon)
 [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/rokonxr)
 
-## I'm a Full Stack Web Developer! 👨‍💻
+## I'm a Full Stack Developer! 👨‍💻
 
 - I'm currently learning everything I can
 - 2020 Goal: Doing some MERN project and freelance job
-- 2021 Goal: Maybe some game development. And contribute more to open source projects
+- 2021 Goal: Maybe game development. And contribute more to open source projects
 
 ### :zap: Now Playing on Spotify 🎧
 
