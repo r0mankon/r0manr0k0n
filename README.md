@@ -85,11 +85,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
-2. 🗣 Commented on [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
-3. 🎉 Merged PR [#6](https://github.com/rokonxr/haloBot/pull/6) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
-4. 🎉 Merged PR [#5](https://github.com/rokonxr/haloBot/pull/5) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
-5. ❗️ Opened issue [#3](https://github.com/dabbott/javascript-express/issues/3) in [dabbott/javascript-express](https://github.com/dabbott/javascript-express)
+1. 💪 Opened PR [#1295](https://github.com/pwa-builder/PWABuilder/pull/1295) in [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
+2. ❗️ Closed issue [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
+3. 🗣 Commented on [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
+4. 🎉 Merged PR [#6](https://github.com/rokonxr/haloBot/pull/6) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
+5. 🎉 Merged PR [#5](https://github.com/rokonxr/haloBot/pull/5) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
 <!--END_SECTION:activity-->
 
 <details>
