@@ -95,13 +95,13 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-[![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/rokonxr)
+[![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117)](https://github.com/rokonxr)
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr&hide_title=true&hide_border=true)](https://github.com/rokonxr)
+[![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=fff)](https://github.com/rokonxr)
 
 </details>
