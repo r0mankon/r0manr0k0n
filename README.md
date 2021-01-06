@@ -85,11 +85,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1295](https://github.com/pwa-builder/PWABuilder/pull/1295) in [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
-2. ❗️ Closed issue [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
-3. 🗣 Commented on [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
-4. 🎉 Merged PR [#6](https://github.com/rokonxr/haloBot/pull/6) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
-5. 🎉 Merged PR [#5](https://github.com/rokonxr/haloBot/pull/5) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
+1. 🗣 Commented on [#9121](https://github.com/gatsbyjs/gatsby/issues/9121) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+2. 💪 Opened PR [#1295](https://github.com/pwa-builder/PWABuilder/pull/1295) in [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
+3. ❗️ Closed issue [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
+4. 🗣 Commented on [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
+5. 🎉 Merged PR [#6](https://github.com/rokonxr/haloBot/pull/6) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
 <!--END_SECTION:activity-->
 
 <details>
