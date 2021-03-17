@@ -1,14 +1,15 @@
-### Hi there, I'm Roman Rokon - aka @rokonxr
+### Hi there, I'm Roman Rokon - aka @r0manr0k0n
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/rokonxr)
-[<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/romanRokon)
-[<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/roman_rokon)
-[<img src="https://img.shields.io/badge/facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://facebook.com/rokonxr)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/r0manr0k0n)
+[<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/r0man_r0k0n)
+[<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/r0man.r0k0n)
+[<img src="https://img.shields.io/badge/facebook%20-%231DA1F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://facebook.com/r0man.r0k0n)
 ## I'm a Full-stack Developer! 👨‍💻
 
 - I'm currently learning everything I can
 - 2020 Goal: Doing some MERN project and freelance job
 - 2021 Goal: Maybe game development. And contribute more to open source projects!
+
 
 ### :zap: Now Playing on Spotify 🎧
 
@@ -95,13 +96,13 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-[![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=rokonxr&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117)](https://github.com/rokonxr)
+[![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=r0manr0k0n&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117)](https://github.com/r0manr0k0n)
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=rokonxr&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=fff)](https://github.com/rokonxr)
+[![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=r0manr0k0n&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=fff)](https://github.com/r0manr0k0n)
 
 </details>
