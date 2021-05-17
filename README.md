@@ -93,16 +93,8 @@
 5. 🎉 Merged PR [#6](https://github.com/rokonxr/haloBot/pull/6) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
 <!--END_SECTION:activity-->
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
+### :zap: Github Stats
 [![Github stats](https://github-readme-stats-r0k0n.vercel.app/api?username=r0manr0k0n&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117)](https://github.com/r0manr0k0n)
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
+### :zap: Most Used Languages
 [![Top Langs](https://github-readme-stats-r0k0n.vercel.app/api/top-langs/?username=r0manr0k0n&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=fff)](https://github.com/r0manr0k0n)
-
-</details>
