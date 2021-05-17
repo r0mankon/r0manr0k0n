@@ -13,7 +13,7 @@
 
 ### :zap: Now Playing on Spotify 🎧
 
-[![Spotify](https://spotify-now-playing.rokonxr.vercel.app/api/spotify)](https://open.spotify.com/user/fyqscjwbqk19oa0g7b03gpjld)
+[![Spotify](https://spotify-now-playing.r0k0n.vercel.app/api/spotify)](https://open.spotify.com/user/fyqscjwbqk19oa0g7b03gpjld)
 
 
 👏🙏❤💪 👏🙏❤💪 👏🙏❤💪
@@ -96,13 +96,13 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-[![Github stats](https://github-readme-stats.rokonxr.vercel.app/api?username=r0manr0k0n&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117)](https://github.com/r0manr0k0n)
+[![Github stats](https://github-readme-stats.r0k0n.vercel.app/api?username=r0manr0k0n&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117)](https://github.com/r0manr0k0n)
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.rokonxr.vercel.app/api/top-langs/?username=r0manr0k0n&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=fff)](https://github.com/r0manr0k0n)
+[![Top Langs](https://github-readme-stats.r0k0n.vercel.app/api/top-langs/?username=r0manr0k0n&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=fff)](https://github.com/r0manr0k0n)
 
 </details>
