@@ -86,11 +86,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9121](https://github.com/gatsbyjs/gatsby/issues/9121) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 💪 Opened PR [#1295](https://github.com/pwa-builder/PWABuilder/pull/1295) in [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder)
-3. ❗️ Closed issue [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
-4. 🗣 Commented on [#1263](https://github.com/svg/svgo/issues/1263) in [svg/svgo](https://github.com/svg/svgo)
-5. 🎉 Merged PR [#6](https://github.com/rokonxr/haloBot/pull/6) in [rokonxr/haloBot](https://github.com/rokonxr/haloBot)
+1. 💪 Opened PR [#1](https://github.com/shakilhossainn/tailwindblog/pull/1) in [shakilhossainn/tailwindblog](https://github.com/shakilhossainn/tailwindblog)
+2. 🎉 Merged PR [#1](https://github.com/r0manr0k0n/novatorem/pull/1) in [r0manr0k0n/novatorem](https://github.com/r0manr0k0n/novatorem)
+3. 💪 Opened PR [#1](https://github.com/r0manr0k0n/novatorem/pull/1) in [r0manr0k0n/novatorem](https://github.com/r0manr0k0n/novatorem)
+4. 🎉 Merged PR [#10](https://github.com/r0manr0k0n/haloBot/pull/10) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
+5. 🎉 Merged PR [#9](https://github.com/r0manr0k0n/haloBot/pull/9) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
 <!--END_SECTION:activity-->
 
 ### :zap: Github Stats
