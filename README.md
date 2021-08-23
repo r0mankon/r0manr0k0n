@@ -86,8 +86,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/r0manr0k0n/haloBot/pull/16) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
-2. 💪 Opened PR [#1](https://github.com/shakilhossainn/tailwindblog/pull/1) in [shakilhossainn/tailwindblog](https://github.com/shakilhossainn/tailwindblog)
+1. ❗️ Opened issue [#1249](https://github.com/satya164/react-native-tab-view/issues/1249) in [satya164/react-native-tab-view](https://github.com/satya164/react-native-tab-view)
+2. 🎉 Merged PR [#16](https://github.com/r0manr0k0n/haloBot/pull/16) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
 3. 🎉 Merged PR [#1](https://github.com/r0manr0k0n/novatorem/pull/1) in [r0manr0k0n/novatorem](https://github.com/r0manr0k0n/novatorem)
 4. 💪 Opened PR [#1](https://github.com/r0manr0k0n/novatorem/pull/1) in [r0manr0k0n/novatorem](https://github.com/r0manr0k0n/novatorem)
 5. 🎉 Merged PR [#10](https://github.com/r0manr0k0n/haloBot/pull/10) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
