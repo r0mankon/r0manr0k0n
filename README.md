@@ -86,9 +86,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1249](https://github.com/satya164/react-native-tab-view/issues/1249) in [satya164/react-native-tab-view](https://github.com/satya164/react-native-tab-view)
-2. 🎉 Merged PR [#16](https://github.com/r0manr0k0n/haloBot/pull/16) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
-3. 🎉 Merged PR [#1](https://github.com/r0manr0k0n/novatorem/pull/1) in [r0manr0k0n/novatorem](https://github.com/r0manr0k0n/novatorem)
+1. 💪 Opened PR [#67](https://github.com/testing-library/jest-native/pull/67) in [testing-library/jest-native](https://github.com/testing-library/jest-native)
+2. ❗️ Opened issue [#1249](https://github.com/satya164/react-native-tab-view/issues/1249) in [satya164/react-native-tab-view](https://github.com/satya164/react-native-tab-view)
+3. 🎉 Merged PR [#16](https://github.com/r0manr0k0n/haloBot/pull/16) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
 4. 💪 Opened PR [#1](https://github.com/r0manr0k0n/novatorem/pull/1) in [r0manr0k0n/novatorem](https://github.com/r0manr0k0n/novatorem)
 5. 🎉 Merged PR [#10](https://github.com/r0manr0k0n/haloBot/pull/10) in [r0manr0k0n/haloBot](https://github.com/r0manr0k0n/haloBot)
 <!--END_SECTION:activity-->
